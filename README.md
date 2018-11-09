@@ -16,3 +16,6 @@ Implement file & class structure and pull into `driver.cpp` as main test applica
 * `trade/` - All of OMS/EMS Classes
   * `order.cpp` - Holds classes for all securities & ordering
   * `execute.cpp` - TODO - class for managing fake PaperMoney portfolio and executing orders
+
+
+https://join.slack.com/t/oms-ems-project/shared_invite/enQtNDc1MzEyMjE1MDEyLTBhMWM4MDM4NTRiOWMxMTQzMGVmNDBkYTMwM2E5ZWQwODgxZmMxN2E4YTg5YjkwZTljOGMzNTJhZDBjZmJmMTU
