@@ -1,4 +1,4 @@
-# High Frequency Trading Ordering/Execution Platform
+# High Frequency Trading Order/Execution Platform
 Trade ordering & execution platform for a high frequency trading service.
 
 ## Goals:
