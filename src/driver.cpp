@@ -25,7 +25,6 @@ int main()
      * 3) Analytics, etc. 
      */
 
-
     auto output = "Runtime: " + to_string((clock() - t_start)/(double)CLOCKS_PER_SEC) + "\n";
     cout << output;
 }
