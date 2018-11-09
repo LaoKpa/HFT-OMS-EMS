@@ -1,4 +1,4 @@
-# HFT-OMS-EMS
+# High Frequency Trading Ordering/Execution Platform
 Trade ordering & execution platform for a high frequency trading service.
 
 ## Goals:
