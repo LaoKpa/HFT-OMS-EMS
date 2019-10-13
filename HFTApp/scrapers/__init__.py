@@ -1,1 +1,5 @@
-from alpha_vantage import 
+from .alpha_vantage import AlphaVantage
+
+__all__ = [
+	'AlphaVantage'
+]

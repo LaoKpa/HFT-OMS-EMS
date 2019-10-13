@@ -10,9 +10,11 @@ build/
 
 __pycache__
 *.egg_info
+*.egg_info/
 *.pyc
 *.pyo
 *.pyd
 *~
 dist/
 *.log
+
